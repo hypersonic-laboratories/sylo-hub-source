@@ -1,6 +1,6 @@
 {
   "hub": 1,
-  "index": "7e209c89a1679ee00eb2cf97e9e21519434c64b4cc24579e0934816a7b8f77ce",
+  "index": "d1b28c10625aaf8b030824a01896c2b209469b04686800174a8489bf9eee4248",
   "items": [
     {
       "kind": "app",
@@ -221,6 +221,39 @@
     },
     {
       "kind": "soul",
+      "id": "analyst",
+      "version": 1,
+      "path": "souls/analyst/v1",
+      "files": {
+        "body.txt": "6bc6d2006b34b2b02a620d05db6c9d5de5caf37900ccca233c0c505103eada89",
+        "entry.json": "1b70656c62275b0a3077505d38b48e0ceac2e4c9efd6493f3fbd20cfa9749514",
+        "picture.webp": "8780158607d99919a64177aa8c0260c21e1dd743b8a83236739c5be60a69ce1e"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "archivist",
+      "version": 1,
+      "path": "souls/archivist/v1",
+      "files": {
+        "body.txt": "21efc0b990499be990637880cc18ab74e40af28ba661dfc5a0c6fdcc7eef980e",
+        "entry.json": "cdd6ec8290cbf635d7199b82752a443af5e8f4289d6618df70ceb032a266a310",
+        "picture.webp": "dfa10de3ec753ae7e243d341a8e54474ca1c4d714a4bdae15712b20fe0661c99"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "bookkeeper",
+      "version": 2,
+      "path": "souls/bookkeeper/v2",
+      "files": {
+        "body.txt": "58d8c327c3212ba43a95be3a18ffc6ed902a42a18d157d5e514dd5451e025f9f",
+        "entry.json": "c94ae3faf89470e45579b25fabcc99379b5bb1216aa31ef14d1d1b9f1bf69b82",
+        "picture.webp": "c9dba2a0217e728f28015a49e0bdd03abf42cd2bc1f8c08ac447c15fa4b90227"
+      }
+    },
+    {
+      "kind": "soul",
       "id": "butler",
       "version": 4,
       "path": "souls/butler/v4",
@@ -229,6 +262,40 @@
         "entry.json": "aa3666848e24f0012850cf1690c53fbb454fb56b0b60c821336b97be75c9ab57",
         "picture.webp": "7908c23c1ce578f8a15da936d00c53cf1264b4fd7a821b768bd6f720c5053c76",
         "story.webp": "0033b93639b6bf6c5ea92c1e731303d16f9c3ca15a3740d743d0ab96808b955d"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "butler",
+      "version": 5,
+      "path": "souls/butler/v5",
+      "files": {
+        "body.txt": "5b9612c6fb4c26619f39118bebe1c6e18a00f218ed3aaa3417c3cabcf2276ac7",
+        "entry.json": "d1333698e107c97832bcc9cc4d250eae35eb6bc621417ff83956a52a5019125a",
+        "picture.webp": "252b757c9183ad4273326d8e83033f08fbcff7633c999134f32f6aacf5b7b04b",
+        "story.webp": "067b8c7b0ff4089d76bff4fec34c85fc847b8bae67c0b1d0cb73204bb2f4b3a2"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "calm",
+      "version": 1,
+      "path": "souls/calm/v1",
+      "files": {
+        "body.txt": "fb2e76c3544ef354ed2730f872aca08396651ec10b09d40efe0ccb9515ab0c8d",
+        "entry.json": "a37bcfcc3aeae5098a960337e0f961702e03a01a5ae3cce624c6e237645d8c80",
+        "picture.webp": "a4cafc99ad85dcbba6ab21e4c733316d9b945c041a55f06139ee6561527e20b4"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "chief-of-staff",
+      "version": 1,
+      "path": "souls/chief-of-staff/v1",
+      "files": {
+        "body.txt": "3a33eb069c3389ef035779d37d150f72f6bf726525654f6b671074b5f79a2226",
+        "entry.json": "65305b857c36764141a0ed929cd1227631da27ca19fcc08073fdb979e7dfc0a7",
+        "picture.webp": "6d51f7af2a0a866d957ef22a10631145cfe810ef134fe53ed456fd9e9c4c4393"
       }
     },
     {
@@ -244,6 +311,72 @@
     },
     {
       "kind": "soul",
+      "id": "coach",
+      "version": 4,
+      "path": "souls/coach/v4",
+      "files": {
+        "body.txt": "8d8d4d6c98aa7e40be3b252a5033575d1785824ebc77cbce785dce30edd55c96",
+        "entry.json": "c9f8485b105b1e6fa265b64b65dc213452f16b8f23917c6ef44943aa9c169001",
+        "picture.webp": "d63a0d8f252b79d2d772ca8b465c23416d828ce23a5cf87947473d92d7eaf480"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "deadpan",
+      "version": 2,
+      "path": "souls/deadpan/v2",
+      "files": {
+        "body.txt": "867fae37e099705342b702b39c28482a7b088e8e278cbdaf88b7f22e54761dfa",
+        "entry.json": "d3138b773c82b5a28c14dee886d49f5ad98f5b7cf7a1c2373302368412838cd7",
+        "picture.webp": "27a4251caa64e1f808e1381176f2195cfb0649d0e093e21d21a7ccae70e10bd3"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "diplomat",
+      "version": 1,
+      "path": "souls/diplomat/v1",
+      "files": {
+        "body.txt": "bd9bc8fa0951f263a6530038ea741a16e30ee3bc8275ecdc6db1f47bc7bad857",
+        "entry.json": "e458df67eff0b9b3f2aa577b5c846eef4dbf43b219fba576d57af4564b349a8f",
+        "picture.webp": "4483b6eca42e30b7d5173dd162f16bfc35a827be40811a67865d5e777fc5674b"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "editor",
+      "version": 1,
+      "path": "souls/editor/v1",
+      "files": {
+        "body.txt": "1b2005026c4dc30bc59d9f126fbb044210d82679035075864a11fbefb1d89499",
+        "entry.json": "3ec12047c1062f0b791edf7708ae1230ae3851b7c453a056bbf69904de3221d3",
+        "picture.webp": "fa978ba3466408bfc0ca5d76e5afe434d2143a245331f00f6c3a7b80fa762b59"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "language-partner",
+      "version": 2,
+      "path": "souls/language-partner/v2",
+      "files": {
+        "body.txt": "39bafb099561c00b4b5cfd92516805d95faf0a84d1ff734875c2df57145d001e",
+        "entry.json": "082a34c18ba210e316b6107e80ea2fa466b48d84295c2c1e343e87d2949d831d",
+        "picture.webp": "d93a6eae75e80b66e87f341a5af989e29e808f4d92a88175710a430390c4f989"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "local-guide",
+      "version": 2,
+      "path": "souls/local-guide/v2",
+      "files": {
+        "body.txt": "1810a9734eb54a2ebb3c69bab3c2d41ba6e395e4e54fc20605fbdb34e098b900",
+        "entry.json": "130efb48c70e8a8eba5cd5ce811c5e7e2161ec4766feb2da513c78758f68dae9",
+        "picture.webp": "7b7257074739cd12eec191364b30f44544c8dcdfad6a410884a3b8eeb73cb089"
+      }
+    },
+    {
+      "kind": "soul",
       "id": "old-friend",
       "version": 3,
       "path": "souls/old-friend/v3",
@@ -255,6 +388,72 @@
     },
     {
       "kind": "soul",
+      "id": "old-friend",
+      "version": 4,
+      "path": "souls/old-friend/v4",
+      "files": {
+        "body.txt": "3dfeed8d591d571a9db0f96f13787c32864d3e2b1e09f8325fbfa831f3bb20aa",
+        "entry.json": "cd8530cdb1e78fc24e86fe75f15d55609fc2e3a3806f62901e53c69591ae2c24",
+        "picture.webp": "5f5b74bdb6f98bda4cb745d1c39766db771b863c707e3d8df1e52d4ffdd11b1f"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "plain-english",
+      "version": 1,
+      "path": "souls/plain-english/v1",
+      "files": {
+        "body.txt": "f370f4358f14762afa37a9cc824e894584a118e76e0cc1e7ef532fb8b89f52e5",
+        "entry.json": "435e75ff62e4fe35fbf93f639d47e887b40dc3c6bfac609dad51e310d51500a9",
+        "picture.webp": "0785ff6e94d9b9b0a6d1d83a1f85dc8e2265a6982f49ede683db7a4691a9654d"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "skeptic",
+      "version": 1,
+      "path": "souls/skeptic/v1",
+      "files": {
+        "body.txt": "4a12cdd97524ded9fc419a4e32a2c534817f6d26ddeb46bb83429aee12a6dbd3",
+        "entry.json": "56e34e6fbf94d2603618a0bef676e1862f78c28518fbbaf5c0664342bc5df081",
+        "picture.webp": "79b9bfccdfb55c0dd075f4490a618505106cc20fef7120149fc16945de6fd863"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "sounding-board",
+      "version": 1,
+      "path": "souls/sounding-board/v1",
+      "files": {
+        "body.txt": "53b5ef2651cefe658a6becf5aa17d4be525ecdb8c54095f271c68cb3be8fb7dc",
+        "entry.json": "65b969cbc3c0d1c9900130d4e4cf3c3673c12dc61b0d5327d1465de5e7218bc3",
+        "picture.webp": "3857855c91a5a76283d5bb33ba7fd28e16f613265c607fc8b31684de77948bb3"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "sous-chef",
+      "version": 2,
+      "path": "souls/sous-chef/v2",
+      "files": {
+        "body.txt": "5fc0fa4253217b50bc5f34c1c9f5e2a42eccdaae732db4e2fb328870058978d0",
+        "entry.json": "e34b812d65d7730f778912d6570c48d81385bed68e0ab56e1bb732a6b99aa64d",
+        "picture.webp": "ca6f4b37efebaaf8517f0086fc03349fb4b7dc31951e97cd7a4e8b8bfcc39334"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "storyteller",
+      "version": 1,
+      "path": "souls/storyteller/v1",
+      "files": {
+        "body.txt": "e32fa2dd77ea74bd78c321f2d7399d081fc61d37ddec8aa448cba9d78ca210be",
+        "entry.json": "96107e5d9b69117291a2900f03f8cf321dd90640d225155e3e58c9a9d700b305",
+        "picture.webp": "fdc3b367999e5f394de3622a61ec8009c817028229dade9105e87896e6e3b19f"
+      }
+    },
+    {
+      "kind": "soul",
       "id": "straight-talker",
       "version": 3,
       "path": "souls/straight-talker/v3",
@@ -262,6 +461,28 @@
         "body.txt": "fa530049846b02cc44ae4bf886ffea887ba62532b64593fd5d469c4766034bc2",
         "entry.json": "bf47e77d5104fb38952cfe8aea291ccab67ccd8b2e8057a396b5d0cf0a52d2bb",
         "picture.webp": "6f8dfcf4935b02a170ac9c6958e06b2949011e675dad6076ac63ab895229fbb7"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "straight-talker",
+      "version": 4,
+      "path": "souls/straight-talker/v4",
+      "files": {
+        "body.txt": "fa530049846b02cc44ae4bf886ffea887ba62532b64593fd5d469c4766034bc2",
+        "entry.json": "c1e7bc8907f2918663b25578d174e3dbdf8fd9358b191bd2b2358f426d91116f",
+        "picture.webp": "0f976674ed9b9f4e90f9f51c58e25be033aea67e78e3508954573f0dd89fd2f0"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "tutor",
+      "version": 1,
+      "path": "souls/tutor/v1",
+      "files": {
+        "body.txt": "f7dde14dbc978be2e846044b15f529860a03f0d9b6246a0550b848562030327c",
+        "entry.json": "ad575d290ae9682454cb8e42a85d9e0052a8a933963621436141e8da08eb2a47",
+        "picture.webp": "0ee67b449fc74d9482a3a84a3651796fc1dd41244d6749e092e3fe6b526fc103"
       }
     }
   ]
