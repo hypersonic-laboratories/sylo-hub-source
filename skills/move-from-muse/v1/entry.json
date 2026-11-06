@@ -1,0 +1,14 @@
+{
+  "id": "move-from-muse",
+  "kind": "skill",
+  "version": 1,
+  "title": "Move from Muse",
+  "subtitle": "Bring your memory and notes over from Muse",
+  "description": "Move what Muse knows about you into your Sylo. In Mepedia you copy one message into Muse, and Muse packs your memory, daily notes and the people in your life into a zip. You pick the zip there, see what will come over before anything is sent, and bring it in. Saved passwords stay in Muse, and lines that look like passwords, keys or card numbers are left out. Muse's personality, scheduled tasks, files and connected apps are listed but stay in Muse for now.",
+  "reviewed": "2026-11-03",
+  "rank": 70,
+  "asks": ["Move my stuff over from Muse.", "Bring my Muse memory into Sylo.", "What did my Muse import bring in?"],
+  "uses": ["note search", "note list", "todo add", "todo list"],
+  "sites": [],
+  "needs": []
+}

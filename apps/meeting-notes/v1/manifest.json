@@ -1,0 +1,13 @@
+{
+  "manifest": 1,
+  "tools": [
+    {
+      "name": "summarize",
+      "says": "Turn rough meeting notes into decisions, next steps and open questions",
+      "about": "Reads rough notes from a meeting or call and lists what was decided, who does what next, and what is still open.",
+      "takes": [{ "name": "notes", "about": "The rough notes, as the person wrote them.", "max": 8000, "required": true }],
+      "output": 4000
+    }
+  ],
+  "uses": [{ "api": "ai", "why": "To read your notes and sort them. Uses Sparks." }]
+}

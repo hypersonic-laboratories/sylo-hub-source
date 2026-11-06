@@ -1,0 +1,17 @@
+{
+  "id": "meeting-notes",
+  "kind": "app",
+  "version": 1,
+  "title": "Meeting notes",
+  "subtitle": "Rough notes in, decisions and next steps out",
+  "description": "Paste what you jotted down in a meeting or a call and get back what was decided, who does what next, and what is still open. It reads only the notes you give it, keeps nothing afterwards and has no way to reach a website, your messages or your files. Its code is small enough to read, and Audit checks it for you.",
+  "reviewed": "2026-11-04",
+  "rank": 20,
+  "app": "meeting-notes",
+  "runtime": "isolate",
+  "bundle": "app.js",
+  "manifest": "manifest.json",
+  "pictures": [],
+  "works": ["phone", "desktop", "web"],
+  "category": "Productivity"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "reply-for-me",
+  "kind": "skill",
+  "version": 3,
+  "title": "Reply for me",
+  "subtitle": "Drafts replies in your voice",
+  "description": "Finds the emails that need an answer and saves a draft reply to each, in your voice and your usual length. Nothing is sent: you read each draft and send it yourself.",
+  "reviewed": "2026-10-23",
+  "rank": 60,
+  "asks": ["Draft replies to anything from this week I haven't answered.", "Reply to Ana's email saying Thursday works."],
+  "uses": ["mail search", "mail read", "mail draft", "note search"],
+  "sites": [],
+  "needs": ["mail"]
+}

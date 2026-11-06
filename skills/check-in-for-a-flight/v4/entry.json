@@ -1,0 +1,30 @@
+{
+  "id": "check-in-for-a-flight",
+  "kind": "skill",
+  "version": 4,
+  "title": "Check in for a flight",
+  "subtitle": "Finds your booking and checks you in",
+  "description": "Your Sylo finds the booking in your email, opens the airline’s own check-in page and checks you in with the details you saved, so your boarding pass is ready before you leave. It tells you if check-in isn’t open yet, and it stops and asks before anything that costs money or that you haven’t chosen, such as a paid seat or a bag. It never pays here.",
+  "reviewed": "2026-11-04",
+  "rank": 15,
+  "asks": ["Check me in for my flight tomorrow.", "Check me and Nora in for the 7:40 to Lisbon on Friday."],
+  "uses": [
+    "mail search",
+    "mail read",
+    "browser open",
+    "browser observe",
+    "browser look",
+    "browser click",
+    "browser type",
+    "browser select",
+    "browser press",
+    "browser scroll",
+    "browser wait",
+    "browser fill",
+    "details list",
+    "note search"
+  ],
+  "sites": [],
+  "needs": ["browser", "mail"],
+  "browserNote": "It opens the airline’s page and fills in your saved details."
+}

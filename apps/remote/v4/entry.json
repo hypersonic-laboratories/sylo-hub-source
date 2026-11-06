@@ -1,0 +1,33 @@
+{
+  "id": "remote",
+  "kind": "app",
+  "version": 4,
+  "title": "Remote",
+  "subtitle": "Run the AI sessions you already use, from anywhere",
+  "description": "Connect Sylo to the AI you already use, like Claude or Codex, and run its sessions from anywhere.\n\nSee every session on your computers from your phone or the web, and how each one is going. Open one to read what it has done so far, answer when it asks, or send it your own words. Start a new session in a folder you chose, stop it mid-task, or end it when you are done.\n\nWhen a session asks to run something, the question comes to you, and Sylo can say no for you. Nothing runs without your tap, and a session never works outside the folders you chose.",
+  "reviewed": "2026-10-23",
+  "rank": 10,
+  "app": "remote",
+  "pictures": ["screenshot-1.webp", "screenshot-2.webp", "screenshot-3.webp"],
+  "reaches": [
+    {
+      "what": "Your sessions",
+      "why": "To show what each is doing and read what it did."
+    },
+    {
+      "what": "Folders you chose",
+      "why": "To start a session there, and nowhere else."
+    }
+  ],
+  "never": ["Reads your sign-in or keys", "Works outside the folders you chose", "Allows a tool without your tap"],
+  "works": ["phone", "desktop", "web"],
+  "waitsFor": ["remote"],
+  "story": {
+    "kicker": "New Sylo app",
+    "title": "Run your AI sessions from your phone",
+    "picture": "story.webp",
+    "subtitle": "Remote: connect Claude or Codex, then start, steer and approve from anywhere."
+  },
+  "category": "Productivity",
+  "icons": ["browser", "tool-log", "step-log", "memory", "chats", "move", "acts", "your-call", "files", "ask-first"]
+}

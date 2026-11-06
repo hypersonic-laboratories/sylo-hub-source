@@ -1,0 +1,31 @@
+{
+  "id": "cancel-a-subscription",
+  "kind": "skill",
+  "version": 4,
+  "title": "Cancel a subscription",
+  "subtitle": "Finds what you pay for, and cancels it with your yes",
+  "description": "Name a subscription, or ask what you are paying for. Your Sylo finds the receipts and renewal notices in your email, shows the price and the next charge, and goes through the service’s cancel steps, turning down the offers to stay. It stops before the last button to show you what ends and when, and cancels only after your yes.",
+  "reviewed": "2026-11-04",
+  "rank": 46,
+  "asks": ["Cancel my Spotify before it renews.", "What am I paying for every month?"],
+  "uses": [
+    "mail search",
+    "mail read",
+    "browser open",
+    "browser observe",
+    "browser look",
+    "browser click",
+    "browser type",
+    "browser select",
+    "browser press",
+    "browser scroll",
+    "browser wait",
+    "browser fill",
+    "details list",
+    "note search",
+    "note add"
+  ],
+  "sites": [],
+  "needs": ["browser", "mail"],
+  "browserNote": "It opens the service’s page and signs in with your saved login."
+}

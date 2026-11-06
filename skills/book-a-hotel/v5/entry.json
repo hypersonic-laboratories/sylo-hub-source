@@ -1,0 +1,35 @@
+{
+  "id": "book-a-hotel",
+  "kind": "skill",
+  "version": 5,
+  "title": "Book a hotel",
+  "subtitle": "Finds a room that fits, and books it with your yes",
+  "description": "Say where, when and who is staying. Your Sylo checks the booking sites and the hotels’ own pages, offers up to five with the total price, the cancellation terms and a line on why each fits, and takes the one you pick to the last step with your saved details filled in. It stops before paying to show you the room, the dates and the total, and nothing is bought without your yes.",
+  "reviewed": "2026-11-04",
+  "rank": 8,
+  "asks": [
+    "Two nights in Porto from the 20th, near the river, under $150 a night.",
+    "A quiet hotel near the conference in Berlin, Monday to Wednesday.",
+    "Any good hotels in Brooklyn for next weekend? Free cancellation."
+  ],
+  "uses": [
+    "web search",
+    "web read",
+    "browser open",
+    "browser observe",
+    "browser look",
+    "browser click",
+    "browser type",
+    "browser select",
+    "browser press",
+    "browser scroll",
+    "browser wait",
+    "browser fill",
+    "browser pay",
+    "details list",
+    "note search"
+  ],
+  "sites": [],
+  "needs": ["browser"],
+  "browserNote": "It opens the pages and fills in your saved details."
+}

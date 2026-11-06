@@ -1,0 +1,31 @@
+{
+  "id": "return-an-order",
+  "kind": "skill",
+  "version": 4,
+  "title": "Return an order",
+  "subtitle": "Starts the return, so you only have to drop it off",
+  "description": "Name the order, or the shop and the item. Your Sylo finds it in your email, checks the shop’s return window and rules, and starts the return on the shop’s own page. It stops before the last step to show you the item, the refund and how to send it back, and submits only after your yes. If the shop can’t do it online, it tells you the steps and drafts the message to send.",
+  "reviewed": "2026-11-04",
+  "rank": 44,
+  "asks": ["Return the blender I ordered from Amazon last week.", "The shoes from Zalando don’t fit. Start a return."],
+  "uses": [
+    "mail search",
+    "mail read",
+    "mail draft",
+    "browser open",
+    "browser observe",
+    "browser look",
+    "browser click",
+    "browser type",
+    "browser select",
+    "browser press",
+    "browser scroll",
+    "browser wait",
+    "browser fill",
+    "details list",
+    "note search"
+  ],
+  "sites": [],
+  "needs": ["browser", "mail"],
+  "browserNote": "It opens the shop’s page and signs in with your saved login."
+}

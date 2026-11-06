@@ -1,0 +1,14 @@
+{
+  "id": "watch-a-price",
+  "kind": "skill",
+  "version": 4,
+  "title": "Watch a price",
+  "subtitle": "Tells you when a price drops",
+  "description": "Looks up a product at a few shops and tells you where it is cheapest. If it is not there yet, it offers a daily check that tells you when the price drops. It never buys anything.",
+  "reviewed": "2026-11-04",
+  "rank": 40,
+  "asks": ["Tell me when these headphones drop under $250.", "What's the lowest price on this laptop right now?"],
+  "uses": ["web read", "web search", "note add"],
+  "sites": [],
+  "needs": []
+}

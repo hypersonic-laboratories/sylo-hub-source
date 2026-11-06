@@ -1,0 +1,14 @@
+{
+  "id": "remind-me",
+  "kind": "skill",
+  "version": 4,
+  "title": "Remind me",
+  "subtitle": "A nudge at the time you pick",
+  "description": "Say what and when, in your own words. Your Sylo sets a reminder that arrives as a notification and a message at that time: once, every day, on the weekdays you pick, several times a day, or every month. It only tells you: when the time comes it sends nothing and does nothing else.",
+  "reviewed": "2026-11-01",
+  "rank": 90,
+  "asks": ["Remind me to call mom tomorrow at 6.", "Every weekday at 8:30, remind me to take my vitamins.", "Remind me every 2 hours to drink water."],
+  "uses": ["remind add", "remind list", "remind cancel"],
+  "sites": [],
+  "needs": []
+}

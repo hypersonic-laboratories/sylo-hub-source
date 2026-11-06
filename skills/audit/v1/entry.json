@@ -1,0 +1,14 @@
+{
+  "id": "audit",
+  "kind": "skill",
+  "version": 1,
+  "title": "Audit",
+  "subtitle": "Check any skill, soul or app before you trust it",
+  "description": "Pick a skill, soul or app in the Hub and your Sylo reads all of it for you: what it can reach, whether its instructions match what it says it does, and anything that asks to send your data elsewhere, spend money, hide what it is doing or talk your Sylo into something. You choose how deep it goes, and you get a plain verdict. It only reads. It changes nothing, follows nothing it reads, and tells you what it found.",
+  "reviewed": "2026-11-03",
+  "rank": 4,
+  "asks": ["Audit the Remind me skill.", "Is the Coach soul safe to use?", "Check what the Remote app can reach."],
+  "uses": ["skill inspect", "chat ask"],
+  "sites": [],
+  "needs": []
+}
