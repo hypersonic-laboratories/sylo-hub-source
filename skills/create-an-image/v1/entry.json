@@ -1,0 +1,24 @@
+{
+  "id": "create-an-image",
+  "kind": "skill",
+  "version": 1,
+  "title": "Create an image",
+  "subtitle": "From your words, from pictures you send, or by changing one",
+  "description": "Say what you want and your Sylo makes it: a scene, a logo idea, a card, a wallpaper. Send a few pictures and ask for something like them, or send one and say what to change: the sky, the colours, the mood, what the sign says. It shows up in your chat, square, wide or tall, and is kept in your Library. What you write and the pictures you send go only to a private service that does not keep them.",
+  "reviewed": "2026-10-27",
+  "rank": 12,
+  "asks": [
+    "Draw a hedgehog reading a newspaper in an armchair, soft watercolour",
+    "Make something like these three, but at night",
+    "Take the sofa out of this photo and put a green armchair there"
+  ],
+  "uses": ["image make"],
+  "sites": [],
+  "needs": [],
+  "story": {
+    "kicker": "New skill",
+    "title": "A picture from a few words, or from yours",
+    "picture": "story.webp",
+    "subtitle": "Describe it, send pictures to be like, or send one to change."
+  }
+}

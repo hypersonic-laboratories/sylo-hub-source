@@ -1,0 +1,14 @@
+{
+  "id": "pack-for-a-trip",
+  "kind": "skill",
+  "version": 2,
+  "title": "Pack for a trip",
+  "subtitle": "A list that fits the weather and your plans",
+  "description": "Say where you’re going, when and what you’ll do. Your Sylo checks the forecast, remembers how you like to travel, and gives you a short checklist: documents, clothes counted to the days, and what the weather and the plans call for. It leaves out what you can buy there.",
+  "reviewed": "2026-10-25",
+  "rank": 22,
+  "asks": ["What should I pack for 4 days in Lisbon in March?", "A weekend hiking in the Alps, carry-on only."],
+  "uses": ["weather forecast", "note search"],
+  "sites": [],
+  "needs": []
+}

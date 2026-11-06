@@ -1,0 +1,15 @@
+{
+  "id": "standup-my-sessions",
+  "kind": "skill",
+  "version": 3,
+  "title": "Standup across my sessions",
+  "subtitle": "One update across your coding sessions",
+  "description": "Reads the state of your coding sessions and gives you one short update: how many are working, waiting on you or done, and a line on each. It only reads, and starts nothing on its own.",
+  "reviewed": "2026-10-23",
+  "rank": 80,
+  "asks": ["Give me a standup across my Claude sessions.", "What are my coding sessions waiting on me for?"],
+  "uses": ["remote status", "remote read", "note add"],
+  "sites": [],
+  "needs": ["remote"],
+  "waitsFor": ["remote"]
+}

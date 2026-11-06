@@ -1,0 +1,14 @@
+{
+  "id": "tidy-my-inbox",
+  "kind": "skill",
+  "version": 3,
+  "title": "Tidy my inbox",
+  "subtitle": "What needs you, what can wait, what to drop",
+  "description": "Reads your recent email and sorts it into three: what needs you, what can wait, and the senders you could stop hearing from. It sends nothing and moves nothing, and saves a draft for you to read only if you ask.",
+  "reviewed": "2026-10-23",
+  "rank": 30,
+  "asks": ["What in my inbox actually needs me?", "Go through this week's email and tell me what to drop."],
+  "uses": ["mail search", "mail read", "mail draft", "note add"],
+  "sites": [],
+  "needs": ["mail"]
+}

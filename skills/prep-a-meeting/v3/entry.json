@@ -1,0 +1,14 @@
+{
+  "id": "prep-a-meeting",
+  "kind": "skill",
+  "version": 3,
+  "title": "Prep for a meeting",
+  "subtitle": "Who is coming, what was said, what to raise",
+  "description": "Reads the meeting in your calendar, then your recent email with each guest and your own notes. Gives you one page: who is coming, what is still open from last time, and three things worth raising. It only reads.",
+  "reviewed": "2026-10-23",
+  "rank": 50,
+  "asks": ["Prep me for my 2pm.", "What should I know before tomorrow's call with Sam?"],
+  "uses": ["calendar read", "calendar list", "mail search", "mail read", "note search", "doc write"],
+  "sites": [],
+  "needs": ["calendar", "mail"]
+}

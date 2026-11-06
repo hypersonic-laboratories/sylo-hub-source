@@ -1,0 +1,268 @@
+{
+  "hub": 1,
+  "index": "7e209c89a1679ee00eb2cf97e9e21519434c64b4cc24579e0934816a7b8f77ce",
+  "items": [
+    {
+      "kind": "app",
+      "id": "meeting-notes",
+      "version": 1,
+      "path": "apps/meeting-notes/v1",
+      "files": {
+        "app.js": "028c26d9e6aa14c9304c344233df29965095681478fb9617865a0d4c1272a94f",
+        "entry.json": "c17f576a681137cd0ee225b6085fcf1a8c92828890467b5983e7bf9a82c271e8",
+        "manifest.json": "04a7cbb74af3ba54e7e7e84e6d16ff0a034202ba518601eb340cc3aad2a08fcc",
+        "picture.webp": "227fc61d9c8df7a157ec84ee12c41548cd71b22fb524f3e20b83cb047158bdba"
+      }
+    },
+    {
+      "kind": "app",
+      "id": "remote",
+      "version": 4,
+      "path": "apps/remote/v4",
+      "files": {
+        "entry.json": "d72228c294e797dcc2ee92b9937197d4fe960f290c5f1877bb33381d005df8de",
+        "picture.webp": "4d16a9fb350a0123b973351b811b9b2d7125c4276aaa33c51170b8c53c9ceaed",
+        "screenshot-1.webp": "8c70e182ee5b7737e026221e3eaa73bb7b647f0cb6efb057239dc3bf5143fcff",
+        "screenshot-2.webp": "b4be39dd0b0daee441defd206f13229bfe170c5966a8e8ec6d70da1a566c087b",
+        "screenshot-3.webp": "e7bf50fd306ffadd875eb5582ac642dd75846890cf1ed05ca28092218e169d0a",
+        "story.webp": "7fd2226465dc33087340422ad669cdd8cffdc275ff725d3151563f6954df7f03"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "audit",
+      "version": 1,
+      "path": "skills/audit/v1",
+      "files": {
+        "body.md": "b7289f69db39d41fa8e361e85c3caeba0d4f1679c1edc8f652d415f1e30df5e4",
+        "entry.json": "957983de4df20773d69ace5971afafb12d4b2661dbc0b56bb201d8971453b622",
+        "picture.webp": "e19615fb51a3996124102e7be2c895098aa0b0119869a3a64378774f706fe083"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "book-a-flight",
+      "version": 5,
+      "path": "skills/book-a-flight/v5",
+      "files": {
+        "body.md": "ae438a176779f7a395bacdba7f03173e3eddb5be19fed8b85466b65851834510",
+        "entry.json": "1a10536dca37320dc1698cb47d1e1a857643d660208e49c206b7e029fb5a5b32",
+        "picture.webp": "708fec1e389a4ac8c29e48ff3ac775ef503475129c099e4c3f5851761b160629",
+        "story.webp": "7e21ab6dfab8ab654e881705f2188bd4405ea2475a8db7f9f2df613fc21f8e96"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "book-a-hotel",
+      "version": 5,
+      "path": "skills/book-a-hotel/v5",
+      "files": {
+        "body.md": "311b5f7acfe1a0fc2653f1c38fed19b07ebe90385db28fc5e0ea2875cd861760",
+        "entry.json": "2154d8b0ba4314f1d68f7aab6e36a8d9b70abe1622b667dae4e16040eca73b0e",
+        "picture.webp": "5926349c9cbe2c4873fda0a947a1672ee12002a127fa84e157a4787452ec3a45"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "book-a-table",
+      "version": 5,
+      "path": "skills/book-a-table/v5",
+      "files": {
+        "body.md": "6a5c3416fea2dfa7b391c0cd3845671dbd7c50ebbe91e196c911c4153b493d05",
+        "entry.json": "93e7bb9aed43e7638868c794bd2447eaad55ff42db98f1db17d531123c469bfe",
+        "picture.webp": "c5567f6bdd2c9d8fe599d400df5097fa544aa4dbb17b4d03bc35c9d9ee3ed63c",
+        "story.webp": "0add0c575401165a6e89b8fa290cc1bd790752a0bcedc402b47f101a24408c02"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "cancel-a-subscription",
+      "version": 4,
+      "path": "skills/cancel-a-subscription/v4",
+      "files": {
+        "body.md": "f178368a28ef3a0ed0aa42e3720512f6e8613585c0c34d80b697de8ef4a15a9e",
+        "entry.json": "28f46b1913b3b191d5d3a92fcf7d706264cfe54960c11d437e6090b7cf01e3b0",
+        "picture.webp": "cfe235af304fa7be7d52a118f1c417d2649e90d4bcf0b94acf4d21192ba2fdc4"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "check-in-for-a-flight",
+      "version": 4,
+      "path": "skills/check-in-for-a-flight/v4",
+      "files": {
+        "body.md": "526eef48d20cb4d83f0afee53e582ded56e1076e926a7a8a97872cd210b51ef9",
+        "entry.json": "152bf8305900334a6504aec54aa179bc7f584798a2eb418cb99cb2adb6728238",
+        "picture.webp": "44372ed71872f55c74710a64b19e66eb394a9441797d8781d218f4c0da374cc7"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "create-an-image",
+      "version": 1,
+      "path": "skills/create-an-image/v1",
+      "files": {
+        "body.md": "af7f219864318c732000b8c64cde27e06bc7dca0ec788a5e01fdab24d69e8df3",
+        "entry.json": "055a716a04b728f8b433a803a3b4688c8698dbe9709ad1cc8307fbb25f5ca97c",
+        "picture.webp": "84778ca21d0d45bc0c70b38d3eff02ff1e434f370c83bda5ae24f81861b10aa1",
+        "story.webp": "8acd31cde4151de40f75fd00c122c19280665bcbac8d4a3324910df876de0d7d"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "make-a-video",
+      "version": 2,
+      "path": "skills/make-a-video/v2",
+      "files": {
+        "body.md": "cd678ef6954993e40ae15f8d83292b4af17def9b707e13494a577dd1a9ce6abb",
+        "entry.json": "074946e7ac05c1d3c694f7862f5f6388f8332730afdc7bf0d4ddca668b6383be",
+        "picture.webp": "779d7f92f7171603b5efd20186a7643c9759d68a77e63b7c7d82bb9ee58d1918",
+        "story.webp": "6beff8743b2dee5630ed6d3469318d7f3643eacb18c8ea16012c61cbc54b6a26"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "move-from-muse",
+      "version": 1,
+      "path": "skills/move-from-muse/v1",
+      "files": {
+        "body.md": "ed895b3f1c252e39635c7874ddf012270e3c4cdd13d2a7e6c66b1b2abaad1b5c",
+        "entry.json": "1a8ac287b42fb06559496dab2a6f1225a85c4936bd60ff687ae7afdd169fbc84",
+        "picture.webp": "caad39a0a387b895e497d23f9499f945ba9bb5d1246d77965a54909e6ee1a674"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "pack-for-a-trip",
+      "version": 2,
+      "path": "skills/pack-for-a-trip/v2",
+      "files": {
+        "body.md": "b66951faeb198861a7c0ad342f873daf57d643d45bfdebcff7b1e52dd019306c",
+        "entry.json": "981ccecf196aa37dc856330dfd8e02ea0512a046d39a71f18f2af41c96467d2c",
+        "picture.webp": "d5a43ba3ee4d7953492467e7aff0a1ecc1994ac8cfdb90c100a6f4c8d6fc8403"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "prep-a-meeting",
+      "version": 3,
+      "path": "skills/prep-a-meeting/v3",
+      "files": {
+        "body.md": "befabef13654b8f0fe122391d430c8c8fd7d917d82b8e257f54efcb3aec63d12",
+        "entry.json": "639ee97c9d294d1a4eb798a697b9e74c9367f739c75e367f5cdd9c3d91313339",
+        "picture.webp": "7798cb909605a22368018b67a763c5b8129c9b3109183ae9271e235088c1f569"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "remind-me",
+      "version": 4,
+      "path": "skills/remind-me/v4",
+      "files": {
+        "body.md": "6d27bcff3f57a4b107770485de6587a0f9423f5554fc01d837a5dd819d7d2805",
+        "entry.json": "f62822274ea684addf2ed4f0455d9902ef7386e3baaa0e3b0fdadaad9cefdf37",
+        "picture.webp": "a9210bd59ec4e31b2e3269ed594083174fc3b8d1eb954f164453cf3d11de8a5b"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "reply-for-me",
+      "version": 3,
+      "path": "skills/reply-for-me/v3",
+      "files": {
+        "body.md": "ff812e0d69fc4aaddde7e8267ddad445d807336834b4afc4b68bf99a7be4a82f",
+        "entry.json": "29e4c1083a8921b4b943fb61d572e66c77c62401089c5add5a28f8d1c868a12f",
+        "picture.webp": "341daeb570a93046d0c5e7be5781586cc06612a3593aa0fb5b9dd07e9b5df741"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "return-an-order",
+      "version": 4,
+      "path": "skills/return-an-order/v4",
+      "files": {
+        "body.md": "3e1440d0717aea92f8b504c89dfd8fed99bf047f0c471bcc49a69baf75c74bba",
+        "entry.json": "7983947e7f069293963e8b74f52a48e8f7b281782d2f1d1c8fb638d6b1cbad49",
+        "picture.webp": "63e74b8f5dad951dde6efdb14be074bf02cd75590c23b3316b8ed66d3894aa7f"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "standup-my-sessions",
+      "version": 3,
+      "path": "skills/standup-my-sessions/v3",
+      "files": {
+        "body.md": "bd7acbff50c526f4349e711780cfc47696ce6bb8eb6a9b690b29b0044346ef0e",
+        "entry.json": "258f6c4a2c205793e8905e4ba9c1297aa3b5076e73cc8c57680a478715179608",
+        "picture.webp": "911cbcc40fa678a9098982fa570c52e4a847989be6bd43896aff762c9f2b8f4e"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "tidy-my-inbox",
+      "version": 3,
+      "path": "skills/tidy-my-inbox/v3",
+      "files": {
+        "body.md": "7ad2d521bb9010df34a66ca32acbb635823b4245985fe5b8ba2a6be484c73e61",
+        "entry.json": "12c7a9f5330582e214935a7054f0e5a26ed64ce681412276be85eed103f8ba56",
+        "picture.webp": "93926afdb58291c0c9508ec484d6827332c998a8b17f8c62ebecab42ec77910a"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "watch-a-price",
+      "version": 4,
+      "path": "skills/watch-a-price/v4",
+      "files": {
+        "body.md": "b883996955baadeb344f6e1b26411b6e89a3d15a9ff0ba76abcc9be901969de7",
+        "entry.json": "74528074f95519c48aab02d43c48d381b39aadd1d45f9d97875cb6d1f57ac74f",
+        "picture.webp": "d7fbd56f3f9a34cf2a2187ccc6f0c2295a2f9bc07231939b87f5fe103a2028b8"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "butler",
+      "version": 4,
+      "path": "souls/butler/v4",
+      "files": {
+        "body.txt": "5b9612c6fb4c26619f39118bebe1c6e18a00f218ed3aaa3417c3cabcf2276ac7",
+        "entry.json": "aa3666848e24f0012850cf1690c53fbb454fb56b0b60c821336b97be75c9ab57",
+        "picture.webp": "7908c23c1ce578f8a15da936d00c53cf1264b4fd7a821b768bd6f720c5053c76",
+        "story.webp": "0033b93639b6bf6c5ea92c1e731303d16f9c3ca15a3740d743d0ab96808b955d"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "coach",
+      "version": 3,
+      "path": "souls/coach/v3",
+      "files": {
+        "body.txt": "8d8d4d6c98aa7e40be3b252a5033575d1785824ebc77cbce785dce30edd55c96",
+        "entry.json": "b049c2f71cfd85d7f75f5a341eba220fc50067636e35b577d77cbfc62909853d",
+        "picture.webp": "0c65d3b6fcef24ee8d8537d8bbfb9d1127549bd129f51d074c1e260f71381cb3"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "old-friend",
+      "version": 3,
+      "path": "souls/old-friend/v3",
+      "files": {
+        "body.txt": "3dfeed8d591d571a9db0f96f13787c32864d3e2b1e09f8325fbfa831f3bb20aa",
+        "entry.json": "d4209b5831ea3f412bb714421a2d23143339079e1a28df1eda4cf04c8f43da99",
+        "picture.webp": "058df459d186b4165d756830a829c17be6d21ac11ccfa80fe36ff668923b3efe"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "straight-talker",
+      "version": 3,
+      "path": "souls/straight-talker/v3",
+      "files": {
+        "body.txt": "fa530049846b02cc44ae4bf886ffea887ba62532b64593fd5d469c4766034bc2",
+        "entry.json": "bf47e77d5104fb38952cfe8aea291ccab67ccd8b2e8057a396b5d0cf0a52d2bb",
+        "picture.webp": "6f8dfcf4935b02a170ac9c6958e06b2949011e675dad6076ac63ab895229fbb7"
+      }
+    }
+  ]
+}

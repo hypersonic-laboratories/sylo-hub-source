@@ -1,0 +1,37 @@
+{
+  "id": "book-a-table",
+  "kind": "skill",
+  "version": 5,
+  "title": "Book a table",
+  "subtitle": "Finds a table that fits, and holds it",
+  "description": "Say when, where and who’s coming. Your Sylo finds places that fit, offers the best three with a line on why each fits, and books the one you pick. It checks everything the booking will say, and asks you first if there is a fee or anything it had to guess.",
+  "reviewed": "2026-11-04",
+  "rank": 10,
+  "asks": ["Table for 4 on Friday, somewhere near Nora’s? Not too loud.", "A quiet place for two on Tuesday at 8."],
+  "uses": [
+    "web search",
+    "web read",
+    "browser open",
+    "browser observe",
+    "browser look",
+    "browser click",
+    "browser type",
+    "browser select",
+    "browser press",
+    "browser scroll",
+    "browser wait",
+    "browser fill",
+    "browser pay",
+    "details list",
+    "note search"
+  ],
+  "sites": [],
+  "needs": ["browser"],
+  "story": {
+    "kicker": "New skill",
+    "title": "A table for Friday, found and held",
+    "picture": "story.webp",
+    "subtitle": "Say when and who’s coming. Your Sylo holds the one you pick."
+  },
+  "browserNote": "It opens the booking pages for you."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "make-a-video",
+  "kind": "skill",
+  "version": 2,
+  "title": "Make a video",
+  "subtitle": "A five second clip from words, or from a picture of yours",
+  "description": "Describe a scene and your Sylo makes a five second clip. Send a picture and ask for it to come to life, or ask for a look: cartoon, claymation, watercolour, old film. Wide, tall or square. Each clip is kept in your Files. What you write and the picture you send go to an outside video service, which keeps the clip for a short while so it can be handed back.",
+  "reviewed": "2026-10-29",
+  "rank": 13,
+  "asks": [
+    "A paper boat drifting down a rainy street at dusk, slow camera",
+    "Make this photo of my dog move: ears up, tail wagging",
+    "A hedgehog waving from a window, as claymation"
+  ],
+  "uses": ["video make"],
+  "sites": [],
+  "needs": [],
+  "story": {
+    "kicker": "New skill",
+    "title": "A few seconds of video, from a few words",
+    "picture": "story.webp",
+    "subtitle": "Describe a scene, or bring a picture of yours to life."
+  }
+}

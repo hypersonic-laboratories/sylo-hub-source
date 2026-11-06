@@ -1,0 +1,41 @@
+{
+  "id": "book-a-flight",
+  "kind": "skill",
+  "version": 5,
+  "title": "Book a flight",
+  "subtitle": "Compares the fares, books the one you pick",
+  "description": "Say where, when and who is flying. Your Sylo searches the flight sites and the airlines, lays out up to five side by side with a line on why each fits, and takes the one you pick through the airline’s own checkout with your saved details filled in. It stops before paying and shows you the fare, the bags and the total. Your device asks for your yes, and nothing is bought without it.",
+  "reviewed": "2026-11-04",
+  "rank": 5,
+  "asks": [
+    "Fly me to Lisbon next Friday, back Sunday. Cheapest that isn’t a red-eye.",
+    "One way from SFO to JFK next Tuesday morning, aisle seat.",
+    "Find me nonstop one-way flights from SFO to New York on Saturday and show me the best."
+  ],
+  "uses": [
+    "web search",
+    "web read",
+    "browser open",
+    "browser observe",
+    "browser look",
+    "browser click",
+    "browser type",
+    "browser select",
+    "browser press",
+    "browser scroll",
+    "browser wait",
+    "browser fill",
+    "browser pay",
+    "details list",
+    "note search"
+  ],
+  "sites": [],
+  "needs": ["browser"],
+  "story": {
+    "kicker": "New skill",
+    "title": "A flight, compared and booked with your yes",
+    "picture": "story.webp",
+    "subtitle": "Your Sylo finds the fares and fills in your details. Nothing is paid until you say yes."
+  },
+  "browserNote": "It opens the pages and fills in your saved details."
+}
