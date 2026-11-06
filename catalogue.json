@@ -1,6 +1,6 @@
 {
   "hub": 1,
-  "index": "d1b28c10625aaf8b030824a01896c2b209469b04686800174a8489bf9eee4248",
+  "index": "16cb942dad81245eda201716c5e07a0845615ffd910befc1c02a47bcc71a6c06",
   "items": [
     {
       "kind": "app",
@@ -254,6 +254,17 @@
     },
     {
       "kind": "soul",
+      "id": "bookkeeper",
+      "version": 3,
+      "path": "souls/bookkeeper/v3",
+      "files": {
+        "body.txt": "58d8c327c3212ba43a95be3a18ffc6ed902a42a18d157d5e514dd5451e025f9f",
+        "entry.json": "a9c842c2cf4f514892fb02f4e6d4d5eee6680e1beadfa19fb399d33d6e2b391b",
+        "picture.webp": "c9dba2a0217e728f28015a49e0bdd03abf42cd2bc1f8c08ac447c15fa4b90227"
+      }
+    },
+    {
+      "kind": "soul",
       "id": "butler",
       "version": 4,
       "path": "souls/butler/v4",
@@ -278,6 +289,18 @@
     },
     {
       "kind": "soul",
+      "id": "butler",
+      "version": 6,
+      "path": "souls/butler/v6",
+      "files": {
+        "body.txt": "5b9612c6fb4c26619f39118bebe1c6e18a00f218ed3aaa3417c3cabcf2276ac7",
+        "entry.json": "3f15bff458f46f561fb25d87fca1793cbeb8fd5049f2f692aa473e4bc6c3666e",
+        "picture.webp": "252b757c9183ad4273326d8e83033f08fbcff7633c999134f32f6aacf5b7b04b",
+        "story.webp": "d3865065ae12cd28a346216e9e52f042b9c82d6805c09e3661547e131927c902"
+      }
+    },
+    {
+      "kind": "soul",
       "id": "calm",
       "version": 1,
       "path": "souls/calm/v1",
@@ -295,6 +318,17 @@
       "files": {
         "body.txt": "3a33eb069c3389ef035779d37d150f72f6bf726525654f6b671074b5f79a2226",
         "entry.json": "65305b857c36764141a0ed929cd1227631da27ca19fcc08073fdb979e7dfc0a7",
+        "picture.webp": "6d51f7af2a0a866d957ef22a10631145cfe810ef134fe53ed456fd9e9c4c4393"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "chief-of-staff",
+      "version": 2,
+      "path": "souls/chief-of-staff/v2",
+      "files": {
+        "body.txt": "3a33eb069c3389ef035779d37d150f72f6bf726525654f6b671074b5f79a2226",
+        "entry.json": "e6af5450f840b400fb303f8607db53dee8fb535512675928388c2e1e6c97327a",
         "picture.webp": "6d51f7af2a0a866d957ef22a10631145cfe810ef134fe53ed456fd9e9c4c4393"
       }
     },
@@ -322,12 +356,34 @@
     },
     {
       "kind": "soul",
+      "id": "coach",
+      "version": 5,
+      "path": "souls/coach/v5",
+      "files": {
+        "body.txt": "8d8d4d6c98aa7e40be3b252a5033575d1785824ebc77cbce785dce30edd55c96",
+        "entry.json": "eab7420435cbf6f2d3e0e6ce2ceef374925cc61551d0a35d5635aae89194056d",
+        "picture.webp": "d63a0d8f252b79d2d772ca8b465c23416d828ce23a5cf87947473d92d7eaf480"
+      }
+    },
+    {
+      "kind": "soul",
       "id": "deadpan",
       "version": 2,
       "path": "souls/deadpan/v2",
       "files": {
         "body.txt": "867fae37e099705342b702b39c28482a7b088e8e278cbdaf88b7f22e54761dfa",
         "entry.json": "d3138b773c82b5a28c14dee886d49f5ad98f5b7cf7a1c2373302368412838cd7",
+        "picture.webp": "27a4251caa64e1f808e1381176f2195cfb0649d0e093e21d21a7ccae70e10bd3"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "deadpan",
+      "version": 3,
+      "path": "souls/deadpan/v3",
+      "files": {
+        "body.txt": "867fae37e099705342b702b39c28482a7b088e8e278cbdaf88b7f22e54761dfa",
+        "entry.json": "5de8dbb7be06bb35180c40aa4fe867b68796d6188651907d293559c798eb9ccf",
         "picture.webp": "27a4251caa64e1f808e1381176f2195cfb0649d0e093e21d21a7ccae70e10bd3"
       }
     },
@@ -377,6 +433,17 @@
     },
     {
       "kind": "soul",
+      "id": "local-guide",
+      "version": 3,
+      "path": "souls/local-guide/v3",
+      "files": {
+        "body.txt": "1810a9734eb54a2ebb3c69bab3c2d41ba6e395e4e54fc20605fbdb34e098b900",
+        "entry.json": "b53aa5f6b9db3b0098b89a5656e9de605d070e321b474f8c50d2ed6379db0a8c",
+        "picture.webp": "7b7257074739cd12eec191364b30f44544c8dcdfad6a410884a3b8eeb73cb089"
+      }
+    },
+    {
+      "kind": "soul",
       "id": "old-friend",
       "version": 3,
       "path": "souls/old-friend/v3",
@@ -394,6 +461,17 @@
       "files": {
         "body.txt": "3dfeed8d591d571a9db0f96f13787c32864d3e2b1e09f8325fbfa831f3bb20aa",
         "entry.json": "cd8530cdb1e78fc24e86fe75f15d55609fc2e3a3806f62901e53c69591ae2c24",
+        "picture.webp": "5f5b74bdb6f98bda4cb745d1c39766db771b863c707e3d8df1e52d4ffdd11b1f"
+      }
+    },
+    {
+      "kind": "soul",
+      "id": "old-friend",
+      "version": 5,
+      "path": "souls/old-friend/v5",
+      "files": {
+        "body.txt": "3dfeed8d591d571a9db0f96f13787c32864d3e2b1e09f8325fbfa831f3bb20aa",
+        "entry.json": "6dcb0adf6781de0a67b1c585a7fba3c4a8861d09adf9cebce367d3175d4b4cb0",
         "picture.webp": "5f5b74bdb6f98bda4cb745d1c39766db771b863c707e3d8df1e52d4ffdd11b1f"
       }
     },
