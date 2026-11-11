@@ -1,0 +1,15 @@
+{
+  "id": "coordinate-my-sessions",
+  "kind": "skill",
+  "version": 1,
+  "title": "Coordinate my sessions",
+  "subtitle": "Work through your coding sessions",
+  "description": "Hands work to the coding session that already has the folder, carries on one that ended, or starts a new one only when none fits. It boxes long jobs so it hears when they finish, checks the result, and tells you in a line where each piece stands.",
+  "reviewed": "2026-11-11",
+  "rank": 70,
+  "asks": ["Get the changelog updated in my HELIX folder.", "Keep my coding sessions moving and tell me when they land."],
+  "uses": ["task peek", "task read", "remote list", "remote search", "remote resume"],
+  "sites": [],
+  "needs": ["remote"],
+  "waitsFor": ["remote"]
+}

@@ -1,6 +1,6 @@
 {
   "hub": 1,
-  "index": "16cb942dad81245eda201716c5e07a0845615ffd910befc1c02a47bcc71a6c06",
+  "index": "4db9cf7c66ae8ca7f26741e49ffea7a5e24a16a626d3f50416ff560aeb786a6a",
   "items": [
     {
       "kind": "app",
@@ -94,6 +94,17 @@
         "body.md": "526eef48d20cb4d83f0afee53e582ded56e1076e926a7a8a97872cd210b51ef9",
         "entry.json": "152bf8305900334a6504aec54aa179bc7f584798a2eb418cb99cb2adb6728238",
         "picture.webp": "44372ed71872f55c74710a64b19e66eb394a9441797d8781d218f4c0da374cc7"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "coordinate-my-sessions",
+      "version": 1,
+      "path": "skills/coordinate-my-sessions/v1",
+      "files": {
+        "body.md": "35b256aae35cc58fe50a176e9f6a451764c2283c3979cdbdc3098f4a37d43b3f",
+        "entry.json": "1432eae989170b0cec682940397f6e4a7b30feadbd0ee8a97fa221e9dd623f47",
+        "picture.webp": "911cbcc40fa678a9098982fa570c52e4a847989be6bd43896aff762c9f2b8f4e"
       }
     },
     {
