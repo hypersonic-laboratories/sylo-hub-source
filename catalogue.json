@@ -1,6 +1,6 @@
 {
   "hub": 1,
-  "index": "4db9cf7c66ae8ca7f26741e49ffea7a5e24a16a626d3f50416ff560aeb786a6a",
+  "index": "2d6f4f5995fa5fbf42fd5e5e51df9ffd521114614efb29682d1549987a310e4b",
   "items": [
     {
       "kind": "app",
@@ -25,6 +25,20 @@
         "screenshot-1.webp": "8c70e182ee5b7737e026221e3eaa73bb7b647f0cb6efb057239dc3bf5143fcff",
         "screenshot-2.webp": "b4be39dd0b0daee441defd206f13229bfe170c5966a8e8ec6d70da1a566c087b",
         "screenshot-3.webp": "e7bf50fd306ffadd875eb5582ac642dd75846890cf1ed05ca28092218e169d0a",
+        "story.webp": "7fd2226465dc33087340422ad669cdd8cffdc275ff725d3151563f6954df7f03"
+      }
+    },
+    {
+      "kind": "app",
+      "id": "remote",
+      "version": 5,
+      "path": "apps/remote/v5",
+      "files": {
+        "entry.json": "725d29d4e51f0242dd27a726cef49471204f9e27482b953c5f36930d8ad07b67",
+        "picture.webp": "4d16a9fb350a0123b973351b811b9b2d7125c4276aaa33c51170b8c53c9ceaed",
+        "screenshot-1.webp": "be3d220dd2dcdb0a38f4b5e4ded0b747ca308870f06ee1eb40d73d827a38c4c4",
+        "screenshot-2.webp": "04e53bc43feb09ec16856b299610da693049d06c3e490d674fccc98f12505c96",
+        "screenshot-3.webp": "5cedaa0f0db0de8c35c6be7fb4d2283aeb9d351bc6f54cfc6830d8fbbe3c5e7b",
         "story.webp": "7fd2226465dc33087340422ad669cdd8cffdc275ff725d3151563f6954df7f03"
       }
     },
