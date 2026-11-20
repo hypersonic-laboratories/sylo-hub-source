@@ -1,0 +1,33 @@
+{
+  "id": "remote",
+  "kind": "app",
+  "version": 9,
+  "title": "Sylo Code",
+  "subtitle": "Carry on your Claude Code and Codex sessions from anywhere",
+  "description": "Connect Sylo to Claude Code or Codex on your computer and carry on any session from your phone or the web.\n\nSee every session and how it's going, read what it's done, reply, or start a new one in any folder. Sessions run exactly as they do in your terminal, with your own settings, tools and permissions.",
+  "reviewed": "2026-10-23",
+  "rank": 10,
+  "app": "remote",
+  "pictures": ["screenshot-1.webp", "screenshot-2.webp", "screenshot-3.webp"],
+  "reaches": [
+    {
+      "what": "Your sessions",
+      "why": "To show what each is doing and read what it did."
+    },
+    {
+      "what": "Your folders",
+      "why": "To start a session in one you pick."
+    }
+  ],
+  "never": ["Reads your sign-in or keys"],
+  "works": ["phone", "desktop", "web"],
+  "waitsFor": ["remote"],
+  "story": {
+    "kicker": "New Sylo app",
+    "title": "Run your AI sessions from your phone",
+    "picture": "story.webp",
+    "subtitle": "Sylo Code: connect Claude Code or Codex, then start, reply and follow along from anywhere."
+  },
+  "category": "Productivity",
+  "icons": ["browser", "tool-log", "step-log", "memory", "chats", "move", "acts", "your-call", "files", "ask-first", "context"]
+}

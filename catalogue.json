@@ -1,6 +1,6 @@
 {
   "hub": 1,
-  "index": "2d6f4f5995fa5fbf42fd5e5e51df9ffd521114614efb29682d1549987a310e4b",
+  "index": "6358996ef38ad9a972bf3f88c1dd6d6bded1ad4834f065d1e90c14a93f5b7916",
   "items": [
     {
       "kind": "app",
@@ -43,6 +43,20 @@
       }
     },
     {
+      "kind": "app",
+      "id": "remote",
+      "version": 9,
+      "path": "apps/remote/v9",
+      "files": {
+        "entry.json": "8de8aef7f704ddbce7a958964d9d3aaede9abd42fdf928a76775712e216be176",
+        "picture.webp": "fb6febc8af47c4e37ba92384aa57fa40a055a44329aab5dfb0ca347bc2822824",
+        "screenshot-1.webp": "200caf1c33b2a47578c9a11c230b7e794b4b3eeccd5a0646f0a2ecbaae559fa3",
+        "screenshot-2.webp": "5db60b9bdbb8d747938da91e2cffe8c24c5060accd98a99c7d4e105899116d7d",
+        "screenshot-3.webp": "4493f48b0e9d20c4f6f85b2b4bc2a3743b0d7035bb00a96102b77de9acbd86bb",
+        "story.webp": "954e10a96db7081a1209e9d8f36f8b4f4c0f9c3223afaf3408795582e9b8a9f7"
+      }
+    },
+    {
       "kind": "skill",
       "id": "audit",
       "version": 1,
@@ -50,6 +64,17 @@
       "files": {
         "body.md": "b7289f69db39d41fa8e361e85c3caeba0d4f1679c1edc8f652d415f1e30df5e4",
         "entry.json": "957983de4df20773d69ace5971afafb12d4b2661dbc0b56bb201d8971453b622",
+        "picture.webp": "e19615fb51a3996124102e7be2c895098aa0b0119869a3a64378774f706fe083"
+      }
+    },
+    {
+      "kind": "skill",
+      "id": "audit",
+      "version": 2,
+      "path": "skills/audit/v2",
+      "files": {
+        "body.md": "b7289f69db39d41fa8e361e85c3caeba0d4f1679c1edc8f652d415f1e30df5e4",
+        "entry.json": "99809fd3e9ada638d15e43c9ae73ac6c45ffd6bf655cc8d5df15dfda58f69abf",
         "picture.webp": "e19615fb51a3996124102e7be2c895098aa0b0119869a3a64378774f706fe083"
       }
     },
